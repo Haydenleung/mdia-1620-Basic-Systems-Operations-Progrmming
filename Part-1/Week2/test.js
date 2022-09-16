@@ -21,5 +21,11 @@ var name = "Monika"
 // Boolean
 // Initialise the variable called proceed to the value true.
 var proceed = true;
+var i = 0;
+
+while(proceed){
+    i++;
+    proceed = false;
+}
 
 // Initialise the variable called proceed to the value true.
